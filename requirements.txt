@@ -1,8 +1,8 @@
-https://github.com/New-dev0/Telethon/archive/Artifact.zip
-py-Ultroid==2022.2.10
+https://github.com/New-dev0/Telethon/archive/Aurium.zip
+py-Ultroid==2022.6.6
 pytgcalls==3.0.0.dev21
 
-akinator.py
+git+https://github.com/New-dev0/akinator.py.git
 apscheduler
 bs4
 cairosvg
